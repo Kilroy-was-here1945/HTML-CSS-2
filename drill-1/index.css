@@ -1,0 +1,35 @@
+.divl {
+    height: 16vh;
+    width: 100%;
+    background-color: #444444;
+}
+
+body {
+    background-color: #D8D8D8;
+    margin: 0%;
+}
+
+
+
+
+
+
+.div3 {
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    background-color: black;
+}
+body {
+    background-color: #d8d8d8;
+}
+.div2 {
+    height: 900px;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    background-color: white
+}
